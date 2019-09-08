@@ -1,0 +1,35 @@
+{
+  "name": "pervbot",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "deathbycaptcha": "0.0.3",
+    "discord.js": "^11.5.1",
+    "gamepedia-api": "^0.1.1",
+    "google": "^2.1.0",
+    "google-search-scraper": "^0.1.0",
+    "got": "^9.6.0",
+    "howlongtobeat": "^1.1.1",
+    "imdb-api": "^4.0.3",
+    "json": "^9.0.6",
+    "node-movie": "^2.0.0",
+    "nodeyourmeme": "^2.0.0",
+    "puppeteer": "^1.12.2",
+    "quora-api": "^1.0.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "wikipedia-tldr": "^1.0.2",
+    "wordwrap": "^1.0.0",
+    "yargs": "^13.3.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
