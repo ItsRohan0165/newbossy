@@ -16,7 +16,7 @@
     "gamepedia-api": "^0.1.1",
     "google": "^2.1.0",
     "google-search-scraper": "^0.1.0",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "howlongtobeat": "^1.1.1",
     "imdb-api": "^4.0.3",
     "json": "^9.0.6",
